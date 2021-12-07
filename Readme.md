@@ -2,12 +2,16 @@
 
 <p align="center">
   <a href="https://github.com/Mihika7/AutoV2/stargazers">
-    <img src="https://img.shields.io/github/stars/Mihika7/AutoV2?style=social">
+  
+#### Deploy on Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mihika7/AutoV2)</br>
+<a
 
-  </a>
+ 
   
   <a href="https://github.com/Mihika7/AutoV2/fork">
-    <img src="https://img.shields.io/github/forks/Mihika7/AutoV2?label=Fork&style=social">
+   
+
 
   </a>  
 </p>
