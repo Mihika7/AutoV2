@@ -1,18 +1,18 @@
 # Adv Auto Filter Bot V2
 
 <p align="center">
-  <a href="https://github.com/LXR-YOUTUBER-AMAL/Auto-Filter-Bot-V2/stargazers">
-    <img src="https://img.shields.io/github/stars/LXR-YOUTUBER-AMAL/Auto-Filter-Bot-V2?style=social">
+  <a href="https://github.com/Mihika7/AutoV2/stargazers">
+    <img src="https://img.shields.io/github/stars/Mihika7/AutoV2?style=social">
 
   </a>
   
-  <a href="https://github.com/LXR-YOUTUBER-AMAL/Auto-Filter-Bot-V2/fork">
-    <img src="https://img.shields.io/github/forks/LXR-YOUTUBER-AMAL/Auto-Filter-Bot-V2?label=Fork&style=social">
+  <a href="https://github.com/Mihika7/AutoV2/fork">
+    <img src="https://img.shields.io/github/forks/Mihika7/AutoV2?label=Fork&style=social">
 
   </a>  
 </p>
 
-__This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/LXR-YOUTUBER-AMAL/Auto-Filter-Bot)..__
+__This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/Mihika7/AutoV2)..__
 
 __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
 
@@ -68,8 +68,6 @@ InlineKeyboardMarkup(buttons)
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtube.com/channel/UCqRmM0N9Z-7bBiTqJsfFWwg)**</i>
-
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
@@ -82,8 +80,8 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/LXR-YOUTUBER-AMAL/Auto-Filter-Bot-V2
-cd Auto-Filter-Bot-V2
+git clone https://github.com/Mihika7/AutoV2
+cd AutoV2
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
 python3 -m bot
@@ -92,7 +90,7 @@ python3 -m bot
 </details>
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/LXRBOTSGROUP) For Support/Assistance And Our [Channel](https://www.telegram.dog/LXRBOTSGROUP) For Updates.   
+Join Our [Telegram Group](https://t.me/All_movies_mihi) For Support/Assistance And Our [Channel](https://www.telegram.dog/LXRBOTSGROUP) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
@@ -107,4 +105,4 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
  - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
- - [Thanks To Me 👀](https://github.com/AlbertEinsteinTG)
+ - [Thanks To Me 👀](https://github.com/Mihika7)
